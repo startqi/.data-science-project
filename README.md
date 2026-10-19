@@ -33,7 +33,7 @@ License: CC0 (public domain). No personal or restricted data is included.
    and Chinstrap.
 2. Bill length vs bill depth separates the three species into fairly distinct
    clusters, suggesting these features are useful for species discrimination.
-3. **Limitation:** The dataset contains only three species from one region and has missing values; results may not generalize to other penguin populations.
+( **Limitation:** The dataset contains only three species from one region and has missing values; results may not generalize to other penguin populations.)
 
 ### How to Run the Analysis
 1. Install dependencies: `pip install -r requirements.txt`
