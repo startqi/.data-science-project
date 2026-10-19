@@ -1,17 +1,6 @@
-# .data-science-project
+# Project Showcase
 
-## About Me
-Hello, I am LJY, a student of the UM CISC7204 course. I am interested in data analysis and visualization.
-
-## Technical Skills
-- Python (pandas, numpy, matplotlib, scikit-learn)
-- Jupyter Notebook
-- Git / GitHub
-- Data cleaning and visualization
-
-## Project Showcase
-
-### Project Title: Palmer Penguins: Morphological Differences Across Species
+## Project Title: Palmer Penguins: Morphological Differences Across Species
 
 ### Research Question
 How do body measurements (bill length, bill depth, flipper length, body mass)
